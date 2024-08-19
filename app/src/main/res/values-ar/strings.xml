@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="tasks">الاعمال</string>
+    <string name="settings">الاعدادات</string>
+    <string name="add_new_task">اضف عمل جديد</string>
+    <string name="enter_task_title">ادخل عنوان العمل…</string>
+    <string name="enter_task_description">ادخل شرح العمل…</string>
+    <string name="select_date_of_task">اختر التاريخ</string>
+    <string name="select_time_of_task">اختر الوقت</string>
+    <string name="add">اضف</string>
+    <string name="required">مطلوب</string>
+    <string name="select_date">اختر تاريخ</string>
+    <string name="select_time">اختر الوقت</string>
+    <string name="select_item">اختر واحد</string>
+    <string name="todo_list">الاعمال</string>
+    <string name="edit">Edit</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Arabic</item>
+    </string-array>
+    <string-array name="mode">
+        <item>Light</item>
+        <item>Night</item>
+    </string-array>
+</resources>

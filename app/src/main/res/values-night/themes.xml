@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <style name="AppTheme_Dark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Dark mode theme customizations -->
+    </style>
+
+
+    <style name="app_bg">
+        <item name="android:background">@color/dark_blue</item>
+    </style>
+
+    <style name="toolbar_title_style">
+        <item name="android:titleTextColor">@color/black</item>
+    </style>
+
+    <style name="fab_3_rounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+        <item name="cornerSizeTopLeft">30dp</item>
+        <item name="cornerSizeTopRight">30dp</item>
+        <item name="cornerSizeBottomLeft">30dp</item>
+        <item name="cornerSizeBottomRight">30dp</item>
+    </style>
+
+    <style name="btm_app_bar">
+        <item name="background">@color/dark_blue_btm_app_bar</item>
+    </style>
+
+    <style name="card">
+        <item name="android:backgroundTint">@color/dark_blue_btm_app_bar</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="check_btn">
+        <item name="android:background">@color/dark_blue_btm_app_bar</item>
+    </style>
+
+    <style name="textColor">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
